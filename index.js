@@ -59,7 +59,7 @@ otherInf.innerHTML = `<ul>
 <li><span>Humidity</span><p>${data.main.humidity} %</p> </li>
 <li><span>Pressure</span><p> ${data.main.pressure} hpa</p></li>
 <li><span>Min Temp</span><p>${data.main.temp_min}&#8451</p> </li>
-<li><span>Min Temp</span><p>${data.main.temp_max}&#8451</p> </li>
+<li><span>Max Temp</span><p>${data.main.temp_max}&#8451</p> </li>
 </ul>`
 
 
